@@ -1,0 +1,8 @@
+/* index.css */
+.button {
+  width: 4rem;
+  height: 2rem;
+  background-color: lightblue;
+  border: none;
+  border-radius: 4px;
+}
